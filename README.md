@@ -26,4 +26,4 @@ Go to the application settings and add the variable `WEBSITE_NODE_DEFAULT_VERSIO
 
 ## Some boilerplate?
 
-You can use [this boilerplate](https://github.com/Teddy95/webapp-boilerplate) on Azure, simply follow the rules above! :D
+You can use [this boilerplate](https://github.com/Teddy95/webapp-boilerplate) (including Express.js, Marko.js & Webpack) on Azure, simply follow the rules above! :D
