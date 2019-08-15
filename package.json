@@ -1,0 +1,13 @@
+{
+  "name": "node-azure-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo Hello from Node.js App!"
+  },
+  "keywords": [],
+  "author": "Andre Sieverding",
+  "license": "ISC"
+}
