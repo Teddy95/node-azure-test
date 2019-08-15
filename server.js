@@ -1,5 +1,4 @@
 const http = require('http');
-const schoellerApiClient = require('schoellerapi-client');
 const port = process.env.PORT || 3000;
 
 const server = http.createServer((req, res) => {
