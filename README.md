@@ -1,4 +1,4 @@
-# Azure Node.js sample app
+# Test Node.js web application for Microsoft Azure :cloud:
 
 For further info: <https://www.freecodecamp.org/news/how-to-deploy-your-super-cool-node-app-to-azure-from-github-47ebff6c5448/>
 
